@@ -34,3 +34,6 @@ class Shuttle(Rocket):
     def __init__(self, x=0, y=0, flights_completed=0):
         super().__init__(x, y)
         self.flights_completed = flights_completed
+
+
+# small modification to test a git command 
